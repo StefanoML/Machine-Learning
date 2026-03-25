@@ -17,7 +17,7 @@ The system runs as a command-line script with the title of the input movie as an
 Example:
 
 ```python
-python movie_recommendation.py "Jumanji"
+python movie_recommendations.py "Jumanji"
 ```
 
 ## 2 - Dataset:
